@@ -82,11 +82,11 @@ The application supports both SQLite (default) and MySQL database backends for s
 
 ## License
 
-[MIT License](LICENSE)
+Feel Free to use. make sure if you using it then give small credit that will meant to me a lot and will encourage me more to work. Thanks!
 
 ## Author
 
-Developed by Krutarth Raychura.
+Developed by Krutarth Raychura aka webKing021.
 
 ## Acknowledgments
 
