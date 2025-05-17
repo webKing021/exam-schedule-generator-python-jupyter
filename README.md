@@ -84,6 +84,20 @@ The application supports both SQLite (default) and MySQL database backends for s
 
 Feel Free to use. make sure if you using it then give small credit that will meant to me a lot and will encourage me more to work. Thanks!
 
+If you are looking for better version of this with GUI based here is the Link of my GitHub Repo : 
+
+```
+https://github.com/webKing021/Exam_Schedule_Generator-Python
+```
+
+OR 
+
+you can clone :
+
+```
+git clone https://github.com/webKing021/Exam_Schedule_Generator-Python.git
+```
+
 ## Author
 
 Developed by Krutarth Raychura aka webKing021.
